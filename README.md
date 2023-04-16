@@ -3,7 +3,7 @@
 ### 📎 Активные проекты
 
 * [⚙ Серверная часть](https://github.com/AlexZai007/MaoMe-server)
-* [⚙ Мобильное приложение](https://github.com/AlexZai007/MaoMe-mobile)
+* [⚙ Мобильное приложение](https://github.com/4wl2d/MaoMe-mobile)
 * [⚙ Основная страница](https://github.com/AlexZai007/MaoMe)
 
 * [💾Вики](https://github.com/AlexZai007/MaoMe/wiki)
