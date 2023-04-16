@@ -6,6 +6,9 @@
 * [⚙ Мобильное приложение](https://github.com/AlexZai007/MaoMe-mobile)
 * [⚙ Основная страница](https://github.com/AlexZai007/MaoMe)
 
+* [💾Вики](https://github.com/AlexZai007/MaoMe/wiki)
+
+
 ### 📎 Ссылки на важные файлы
 
 * [🧳 Презентация](https://docs.google.com/presentation/d/1JWYCFTs6XKW1CW5NUZaze2S5EoxBhzhx/edit?usp=sharing&ouid=101140512532253247258&rtpof=true&sd=true)
